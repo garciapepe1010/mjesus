@@ -1556,3 +1556,125 @@
 	"mjesusMain.h"
 	<wx/msgdlg.h>
 
+1496561760 source:/mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/mjesusApp.cpp
+	"wx_pch.h"
+	"mjesusApp.h"
+	"mjesusMain.h"
+
+1496561760 /mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/mjesusApp.h
+	<wx/app.h>
+
+1498406789 /mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/mjesusMain.h
+	"mjesusApp.h"
+	"GUIFrame.h"
+	<sys/types.h>
+	<dirent.h>
+	<errno.h>
+	<vector>
+	<string>
+	<iostream>
+
+1498378373 /mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/GUIFrame.h
+	<wx/artprov.h>
+	<wx/xrc/xmlres.h>
+	<wx/string.h>
+	<wx/bitmap.h>
+	<wx/image.h>
+	<wx/icon.h>
+	<wx/menu.h>
+	<wx/gdicmn.h>
+	<wx/font.h>
+	<wx/colour.h>
+	<wx/settings.h>
+	<wx/statusbr.h>
+	<wx/toolbar.h>
+	<wx/stattext.h>
+	<wx/listctrl.h>
+	<wx/sizer.h>
+	<wx/panel.h>
+	<wx/splitter.h>
+	<wx/frame.h>
+
+1461809791 /usr/include/wx-2.8/wx/artprov.h
+	"wx/string.h"
+	"wx/bitmap.h"
+	"wx/icon.h"
+
+1461809792 /usr/include/wx-2.8/wx/xrc/xmlres.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/dynarray.h"
+	"wx/datetime.h"
+	"wx/list.h"
+	"wx/gdicmn.h"
+	"wx/filesys.h"
+	"wx/bitmap.h"
+	"wx/icon.h"
+	"wx/artprov.h"
+	"wx/colour.h"
+	"wx/animate.h"
+	"wx/xml/xml.h"
+
+1461809790 /usr/include/wx-2.8/wx/filesys.h
+	"wx/defs.h"
+	"wx/stream.h"
+	"wx/datetime.h"
+	"wx/filename.h"
+	"wx/hashmap.h"
+
+1461809790 /usr/include/wx-2.8/wx/filename.h
+	"wx/arrstr.h"
+	"wx/filefn.h"
+	"wx/datetime.h"
+	"wx/intl.h"
+
+1461809792 /usr/include/wx-2.8/wx/animate.h
+	"wx/defs.h"
+	"wx/animdecod.h"
+	"wx/control.h"
+	"wx/timer.h"
+	"wx/bitmap.h"
+	"wx/gtk/animate.h"
+	"wx/generic/animate.h"
+
+1461809792 /usr/include/wx-2.8/wx/animdecod.h
+	"wx/defs.h"
+	"wx/colour.h"
+	"wx/gdicmn.h"
+
+1461809792 /usr/include/wx-2.8/wx/gtk/animate.h
+
+1461809792 /usr/include/wx-2.8/wx/generic/animate.h
+	"wx/bitmap.h"
+
+1461809791 /usr/include/wx-2.8/wx/xml/xml.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/object.h"
+	"wx/list.h"
+
+1498501182 source:/mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/GUIFrame.cpp
+	"wx/wxprec.h"
+	<wx/wx.h>
+	"GUIFrame.h"
+
+1498508169 source:/mnt/b8a43320-20ea-42d1-85e6-ee5264fd59a6/proyectos/mjesus/mjesusMain.cpp
+	"wx_pch.h"
+	"mjesusMain.h"
+	<wx/msgdlg.h>
+	<wx/filedlg.h>
+	<wx/dirdlg.h>
+	<wx/stdpaths.h>
+
+1461809791 /usr/include/wx-2.8/wx/stdpaths.h
+	"wx/defs.h"
+	"wx/string.h"
+	"wx/filefn.h"
+	"wx/msw/stdpaths.h"
+	"wx/mac/corefoundation/stdpaths.h"
+	"wx/os2/stdpaths.h"
+	"wx/unix/stdpaths.h"
+	"wx/palmos/stdpaths.h"
+
+1461809791 /usr/include/wx-2.8/wx/unix/stdpaths.h
+
